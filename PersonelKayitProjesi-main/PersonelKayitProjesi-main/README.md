@@ -5,4 +5,4 @@
 - Kullanıcı, personel bilgilerini silmek isterse; GridView'den ilgili datayı seçip "SİL" butonuna tıklayarak silme işlemini başarıyla gerçekleştirebilecek.
 - GridView'den seçilen data ilgili TextBox'a Set edilecek. Kayıt değiştirildikten sonra "GÜNCELLE" butonuna tıklanarak güncelleme işlemi başarıyla gerçekleşecek.
 - "EKRANI TEMİZLE" butonu ile TextBox üzerindeki yazılar silinecek.
-
+- Projede veri tabanı sistemi olarak SQL EXPRESS LOCAL DB kullanılacak.
